@@ -1,10 +1,8 @@
-
-//Enroll No=130050131042
 import java.io.*;
 import java.util.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
-public class dateservlet extends HttpServlet {
+public class Dateservlet extends HttpServlet {
 
     public void doGet(HttpServletRequest request, HttpServletResponse response)
     throws IOException, ServletException
